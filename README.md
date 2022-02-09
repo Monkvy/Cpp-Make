@@ -7,7 +7,7 @@ Run this program to compile your c++ project with MinGW32
 * Add the file to your main directory inside your C++ project.
 * Run the file. On the first run, errors are normal. To avoid them, configure the Make.json config-file which has been created after the first run.
 
-## Default project structure (can be changed in Make.json)#
+## Default project structure (can be changed in Make.json)
 ```
 ../project/
 
