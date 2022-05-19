@@ -1,5 +1,6 @@
 # Cpp-Make
-Run this program to compile your c++ project with MinGW32
+Run this program to compile your c++ project with MinGW32.
+(Im kind of bad in c++ so i dont know much about libraries. I made this mostly for personal use.)
 
 ## Usage
 * First, download the executable file: [here](https://github.com/Monkvy/Cpp-Make/releases/tag/v1.0.0)
